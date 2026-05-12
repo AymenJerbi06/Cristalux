@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { AtSign, ChevronDown, Menu, Search, ShoppingBag, X } from 'lucide-react';
 import { usePathname } from 'next/navigation';
-import { useRef, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { useStore } from './StoreProvider';
 
 type ChildLink = { label: string; href: string };
@@ -104,7 +104,19 @@ export default function SiteHeader() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [mobileExpanded, setMobileExpanded] = useState<string | null>(null);
   const [socialOpen, setSocialOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
   const { cartCount, openCart, openSearch } = useStore();
+
+  useEffect(() => {
+    const updateScrolled = () => {
+      setIsScrolled(window.scrollY > 70);
+    };
+
+    updateScrolled();
+    window.addEventListener('scroll', updateScrolled, { passive: true });
+
+    return () => window.removeEventListener('scroll', updateScrolled);
+  }, []);
 
   const openSearchDrawer = () => {
     setMobileOpen(false);
@@ -120,7 +132,7 @@ export default function SiteHeader() {
 
   return (
     <>
-      <header className={isHome ? 'site-header site-header-home' : 'site-header'}>
+      <header className={`${isHome ? 'site-header site-header-home' : 'site-header'} ${isHome && isScrolled ? 'site-header-scrolled' : ''}`}>
         <div className="site-header-inner">
           {isHome && (
             <div className="home-header-topline">
@@ -286,8 +298,8 @@ export default function SiteHeader() {
           align-items: center;
         }
         .site-header-home {
-          position: absolute;
-          top: 38px;
+          position: fixed;
+          top: 35px;
           left: 0;
           right: 0;
           min-height: 146px;
@@ -295,6 +307,14 @@ export default function SiteHeader() {
           border-bottom: 0;
           z-index: 120;
           pointer-events: none;
+          transition: top 180ms ease, background 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+        }
+        .site-header-home.site-header-scrolled {
+          top: 0;
+          background: rgba(15, 15, 15, 0.86);
+          border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+          box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+          backdrop-filter: blur(12px);
         }
         .site-header-inner {
           width: 100%;
@@ -591,8 +611,11 @@ export default function SiteHeader() {
             min-height: 78px;
           }
           .site-header-home {
-            top: 34px;
+            top: 54px;
             min-height: 88px;
+          }
+          .site-header-home.site-header-scrolled {
+            top: 0;
           }
           .site-header-inner {
             padding: 0 18px;
