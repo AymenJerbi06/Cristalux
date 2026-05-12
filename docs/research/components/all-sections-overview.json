@@ -1,0 +1,263 @@
+[
+  {
+    "index": 1,
+    "id": "shopify-section-1524769873765",
+    "classes": "shopify-section index-section--hero",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "headingText": "Haircare without\nthe plastic waste",
+    "imageCount": 3,
+    "images": [
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042",
+        "dataSrc": null,
+        "alt": "",
+        "classes": "lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022",
+        "dataSrc": null,
+        "alt": "",
+        "classes": "lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042",
+        "dataSrc": null,
+        "alt": "",
+        "classes": "lazyautosizes lazyloaded"
+      }
+    ],
+    "textPreview": ".slick-slider[data-bars][data-autoplay=\"true\"] .slick-dots li.slick-active button::before {\n            animation-duration: 7000ms;\n          }\n        \n\n        \n          \n            \n            Translation missing: en.sections.slideshow.pause_slideshow\n          \n          \n            \n       "
+  },
+  {
+    "index": 2,
+    "id": "shopify-section-1608579440881d15bb",
+    "classes": "shopify-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "imageCount": 0,
+    "images": [],
+    "textPreview": "590Stores across North America1,500,762Bottles diverted from our oceans and landfills"
+  },
+  {
+    "index": 3,
+    "id": "shopify-section-4f81acf0-806e-4d58-87af-845cc9ba7390",
+    "classes": "shopify-section index-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "headingText": "SHOP CUSTOMER FAVS",
+    "imageCount": 40,
+    "images": [
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/shower_pic_360x.png?v=1765331782",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/files/shower_pic_180x.png?v=1765331782 180w, //upfrontcosmetics.ca/cdn/shop/files/shower_pic_360x.png?v=1765331782 360w, //upfrontcosmetics.ca/cdn/shop/files/shower_pic_540x.png?v=1765331782 540w, //upfrontcosmetics.ca/cdn/shop/files/shower_pic_720x.png?v=1765331782 720w, //upfrontcosmetics.ca/cdn/shop/files/shower_pic_900x.png?v=1765331782 900w, //upfrontcosmetics.ca/cdn/shop/files/shower_pic_1080x.png?v=1765331782 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_360x.png?v=1676402140",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_180x.png?v=1676402140 180w, //upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_360x.png?v=1676402140 360w, //upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_540x.png?v=1676402140 540w, //upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_720x.png?v=1676402140 720w, //upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_900x.png?v=1676402140 900w, //upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_1080x.png?v=1676402140 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_180x.png?v=1665864868 180w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868 360w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_540x.png?v=1665864868 540w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_720x.png?v=1665864868 720w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_900x.png?v=1665864868 900w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_1080x.png?v=1665864868 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_360x.jpg?v=1699627896",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_180x.jpg?v=1699627896 180w, //upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_360x.jpg?v=1699627896 360w, //upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_540x.jpg?v=1699627896 540w, //upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_720x.jpg?v=1699627896 720w, //upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_900x.jpg?v=1699627896 900w, //upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_1080x.jpg?v=1699627896 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/HempConditioner_180x.png?v=1665864924 180w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924 360w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_540x.png?v=1665864924 540w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_720x.png?v=1665864924 720w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_900x.png?v=1665864924 900w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_1080x.png?v=1665864924 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      }
+    ],
+    "textPreview": "SHOP CUSTOMER FAVS\n        \n        \n          View all\n        \n      \n    \n  \n\n  \n    \n      \n\n        \n\n          \n\n\n\n\n\n  \n      \n            ADD TO CART\n          \n            \n            \n              <img class=\"grid-product__image lazyloaded\"\n                src=\"//upfrontcosmetics.ca/cdn/s"
+  },
+  {
+    "index": 4,
+    "id": "shopify-section-1525295772132",
+    "classes": "shopify-section index-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "headingText": "shop shampoo bars",
+    "imageCount": 25,
+    "images": [
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_360x.png?v=1665865287",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_180x.png?v=1665865287 180w, //upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_360x.png?v=1665865287 360w, //upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_540x.png?v=1665865287 540w, //upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_720x.png?v=1665865287 720w, //upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_900x.png?v=1665865287 900w, //upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_1080x.png?v=1665865287 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_180x.png?v=1665864868 180w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868 360w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_540x.png?v=1665864868 540w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_720x.png?v=1665864868 720w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_900x.png?v=1665864868 900w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_1080x.png?v=1665864868 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_360x.png?v=1665865205",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_180x.png?v=1665865205 180w, //upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_360x.png?v=1665865205 360w, //upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_540x.png?v=1665865205 540w, //upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_720x.png?v=1665865205 720w, //upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_900x.png?v=1665865205 900w, //upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_1080x.png?v=1665865205 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_360x.png?v=1665865234",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_180x.png?v=1665865234 180w, //upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_360x.png?v=1665865234 360w, //upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_540x.png?v=1665865234 540w, //upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_720x.png?v=1665865234 720w, //upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_900x.png?v=1665865234 900w, //upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_1080x.png?v=1665865234 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/HempShampoo_360x.png?v=1665864947",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/HempShampoo_180x.png?v=1665864947 180w, //upfrontcosmetics.ca/cdn/shop/products/HempShampoo_360x.png?v=1665864947 360w, //upfrontcosmetics.ca/cdn/shop/products/HempShampoo_540x.png?v=1665864947 540w, //upfrontcosmetics.ca/cdn/shop/products/HempShampoo_720x.png?v=1665864947 720w, //upfrontcosmetics.ca/cdn/shop/products/HempShampoo_900x.png?v=1665864947 900w, //upfrontcosmetics.ca/cdn/shop/products/HempShampoo_1080x.png?v=1665864947 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      }
+    ],
+    "textPreview": "shop shampoo bars\n        \n        \n          View all\n        \n      \n    \n  \n\n  \n    \n      \n\n        \n\n          \n\n\n\n\n\n  \n      \n            ADD TO CART\n          \n            \n            \n              <img class=\"grid-product__image lazyloaded\"\n                src=\"//upfrontcosmetics.ca/cdn/sh"
+  },
+  {
+    "index": 5,
+    "id": "shopify-section-1644343694db0f3ab3",
+    "classes": "shopify-section index-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "headingText": "shop conditioner bars",
+    "imageCount": 26,
+    "images": [
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_360x.png?v=1665864892",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_180x.png?v=1665864892 180w, //upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_360x.png?v=1665864892 360w, //upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_540x.png?v=1665864892 540w, //upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_720x.png?v=1665864892 720w, //upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_900x.png?v=1665864892 900w, //upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_1080x.png?v=1665864892 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_360x.png?v=1665864970",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_180x.png?v=1665864970 180w, //upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_360x.png?v=1665864970 360w, //upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_540x.png?v=1665864970 540w, //upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_720x.png?v=1665864970 720w, //upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_900x.png?v=1665864970 900w, //upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_1080x.png?v=1665864970 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/HempConditioner_180x.png?v=1665864924 180w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924 360w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_540x.png?v=1665864924 540w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_720x.png?v=1665864924 720w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_900x.png?v=1665864924 900w, //upfrontcosmetics.ca/cdn/shop/products/HempConditioner_1080x.png?v=1665864924 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_360x.png?v=1665864833",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_180x.png?v=1665864833 180w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_360x.png?v=1665864833 360w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_540x.png?v=1665864833 540w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_720x.png?v=1665864833 720w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_900x.png?v=1665864833 900w, //upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_1080x.png?v=1665864833 1080w",
+        "alt": "",
+        "classes": "grid-product__image lazyautosizes lazyloaded"
+      },
+      {
+        "src": "",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_{width}x.png?v=1665864892",
+        "alt": "ENLIVENING Conditioner Bar (Tucuma Orange)",
+        "classes": " lazyload"
+      }
+    ],
+    "textPreview": "shop conditioner bars\n        \n        \n          View all\n        \n      \n    \n  \n\n  \n    \n      \n\n        \n\n          \n\n\n\n\n\n  \n      \n            ADD TO CART\n          \n            \n            \n              <img class=\"grid-product__image lazyloaded\"\n                src=\"//upfrontcosmetics.ca/cd"
+  },
+  {
+    "index": 6,
+    "id": "shopify-section-1525912530555",
+    "classes": "shopify-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "imageCount": 3,
+    "images": [
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_300x.jpg?v=1613519310",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_180x.jpg?v=1613519310 180w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_360x.jpg?v=1613519310 360w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_540x.jpg?v=1613519310 540w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_720x.jpg?v=1613519310 720w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_900x.jpg?v=1613519310 900w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_1080x.jpg?v=1613519310 1080w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_1296x.jpg?v=1613519310 1296w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_1512x.jpg?v=1613519310 1512w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_1728x.jpg?v=1613519310 1728w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_1944x.jpg?v=1613519310 1944w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_2160x.jpg?v=1613519310 2160w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_2376x.jpg?v=1613519310 2376w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_2592x.jpg?v=1613519310 2592w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_2808x.jpg?v=1613519310 2808w, //upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_3024x.jpg?v=1613519310 3024w",
+        "alt": "",
+        "classes": "image-fit promo-grid__bg-image promo-grid__bg-image--1598029967752 lazyautosizes"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_300x.png?v=1613530426",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_180x.png?v=1613530426 180w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_360x.png?v=1613530426 360w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_540x.png?v=1613530426 540w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_720x.png?v=1613530426 720w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_900x.png?v=1613530426 900w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_1080x.png?v=1613530426 1080w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_1296x.png?v=1613530426 1296w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_1512x.png?v=1613530426 1512w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_1728x.png?v=1613530426 1728w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_1944x.png?v=1613530426 1944w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_2160x.png?v=1613530426 2160w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_2376x.png?v=1613530426 2376w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_2592x.png?v=1613530426 2592w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_2808x.png?v=1613530426 2808w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_3024x.png?v=1613530426 3024w",
+        "alt": "",
+        "classes": "image-fit promo-grid__bg-image promo-grid__bg-image--1525912530555-0 lazyautosiz"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_300x.png?v=1613530426",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_180x.png?v=1613530426 180w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_360x.png?v=1613530426 360w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_540x.png?v=1613530426 540w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_720x.png?v=1613530426 720w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_900x.png?v=1613530426 900w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_1080x.png?v=1613530426 1080w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_1296x.png?v=1613530426 1296w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_1512x.png?v=1613530426 1512w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_1728x.png?v=1613530426 1728w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_1944x.png?v=1613530426 1944w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_2160x.png?v=1613530426 2160w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_2376x.png?v=1613530426 2376w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_2592x.png?v=1613530426 2592w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_2808x.png?v=1613530426 2808w, //upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_3024x.png?v=1613530426 3024w",
+        "alt": "",
+        "classes": "image-fit promo-grid__bg-image promo-grid__bg-image--1525912530555-1 lazyautosiz"
+      }
+    ],
+    "textPreview": ".flex-grid--1525912530555 {\n    margin-top: -10px;\n    margin-left: -10px;\n    \n      padding-left: 10px;\n      padding-right: 10px;\n    \n  }\n\n  .flex-grid--1525912530555 .flex-grid--gutters {\n    margin-top: -10px;\n    margin-left: -10px;\n  }\n\n  .flex-grid--1525912530555 .flex-grid__item {\n    padd"
+  },
+  {
+    "index": 7,
+    "id": "shopify-section-1600963154921",
+    "classes": "shopify-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "headingText": "WHAT OUR GUESTS ARE SAYING...",
+    "imageCount": 1,
+    "images": [
+      {
+        "src": "",
+        "dataSrc": "//upfrontcosmetics.ca/cdn/shop/files/1-PHILOSOPHY_{width}x.png?v=1613519520",
+        "alt": "",
+        "classes": "lazyload"
+      }
+    ],
+    "textPreview": "WHAT OUR GUESTS ARE SAYING...\n              \n            \n          \n      \n    \n  \n    \n    \n      \n        \n            \n              \n              \n                \n                  \n                    <img class=\"lazyloaded\" src=\"//upfrontcosmetics.ca/cdn/shop/files/1-PHILOSOPHY_400x.png?v=1"
+  },
+  {
+    "index": 8,
+    "id": "shopify-section-1525115199973",
+    "classes": "shopify-section index-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "headingText": "From the blog",
+    "imageCount": 0,
+    "images": [],
+    "textPreview": "From the blog\n      \n      \n        View all\n      \n    \n  \n\n  \n\n    \n      \n        \n\n\n  \n    \n      \n        \n          \n            \n              \n              \n            \n          \n        \n      \n    \n    \n      \n        \n          \n            \n            \n            \n              Dec "
+  },
+  {
+    "index": 9,
+    "id": "shopify-section-footer-promotions",
+    "classes": "shopify-section index-section--footer",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "imageCount": 0,
+    "images": [],
+    "textPreview": ""
+  },
+  {
+    "index": 10,
+    "id": "shopify-section-footer",
+    "classes": "shopify-section",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "imageCount": 1,
+    "images": [
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/2018-B-Corp-wTag-S_x120@2x.png?v=1644337345",
+        "dataSrc": null,
+        "alt": "Upfront Cosmetics ",
+        "classes": ""
+      }
+    ],
+    "textPreview": "@media only screen and (min-width: 769px) and (max-width: 959px) {\n              .footer__item--1598033379765 {\n                width: 50%;\n                padding-top: 40px;\n              }\n              .footer__item--1598033379765:nth-child(2n + 1) {\n                clear: left;\n              }\n "
+  },
+  {
+    "index": 11,
+    "id": "shopify-section-newsletter-popup",
+    "classes": "shopify-section index-section--hidden",
+    "bgColor": "rgba(0, 0, 0, 0)",
+    "padding": "0px",
+    "imageCount": 0,
+    "images": [],
+    "textPreview": ""
+  }
+]

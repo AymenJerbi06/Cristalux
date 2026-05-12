@@ -1,0 +1,1397 @@
+{
+  "links": [
+    {
+      "rel": "canonical",
+      "href": "https://upfrontcosmetics.ca/",
+      "type": "",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://upfrontcosmetics.ca/cdn/shop/t/29/assets/theme.css?v=142020721571905656321760693390",
+      "type": "text/css",
+      "sizes": ""
+    },
+    {
+      "rel": "preconnect",
+      "href": "https://shop.app/",
+      "type": "",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://upfrontcosmetics.ca/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "type": "",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://upfrontcosmetics.ca/cdn/shop/t/29/assets/currency-flags.css?v=75482696549506390791760693368",
+      "type": "",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://cdn.shopify.com/extensions/019a2c75-764c-7925-b253-e24466484d41/legal-7/assets/legal.css",
+      "type": "text/css",
+      "sizes": ""
+    },
+    {
+      "rel": "dns-prefetch",
+      "href": "https://monorail-edge.shopifysvc.com/",
+      "type": "",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap",
+      "type": "text/css",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://a.mailmunch.co/app/v1/styles.css",
+      "type": "text/css",
+      "sizes": ""
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://js.smile.io/v1/launcher-container-styles.04dbf396d0741a0ff79f.css",
+      "type": "text/css",
+      "sizes": ""
+    }
+  ],
+  "fonts": [
+    "Montserrat, sans-serif"
+  ],
+  "colors": [
+    "rgb(255, 255, 255)",
+    "rgb(0, 0, 0) rgb(0, 0, 0) rgb(232, 232, 225)",
+    "rgb(0, 0, 0) rgb(0, 0, 0) rgb(0, 0, 0) rgb(232, 232, 225)",
+    "rgb(232, 232, 225)"
+  ],
+  "images": [
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042",
+      "alt": "",
+      "width": 1568,
+      "height": 882,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022",
+      "alt": "",
+      "width": 1425,
+      "height": 950,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042",
+      "alt": "",
+      "width": 1568,
+      "height": 882,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/shower_pic_360x.png?v=1765331782",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_360x.png?v=1676402140",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_360x.jpg?v=1699627896",
+      "alt": "",
+      "width": 250,
+      "height": 313,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "white shower steamer in a nice fancy shower",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Shower Steamer",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "white shower steamer in a nice fancy shower",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-9240050630900",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-8031677939956",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-8031677939956",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-8031677939956",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Hair Oil | Rosemary & Lavender",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-8031677939956",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Shampoo Bar (Blonde Toner)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "p1",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "Ultra Shine Hair Mask",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/HairMasqueDirectionsNEW_480x480.png?v=1699627534",
+      "alt": "",
+      "width": 480,
+      "height": 360,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING  Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING  Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING  Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING  Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608853114983",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING  Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608853114983",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING  Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608853114983",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/RefreshingShampoo_360x.png?v=1665865287",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/NourishingShampoo_360x.png?v=1665865205",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/NurturingShampoo_360x.png?v=1665865234",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/HempShampoo_360x.png?v=1665864947",
+      "alt": "",
+      "width": 250,
+      "height": 250,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "REFRESHING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "REFRESHING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "REFRESHING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-2274035761255",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "REFRESHING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-2274035761255",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "NOURISHING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "NURTURING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608850133095",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608850133095",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "HYDRATING Shampoo Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608850133095",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnliveningConditioner_360x.png?v=1665864892",
+      "alt": "",
+      "width": 320,
+      "height": 320,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/InvigoratingConditioner_360x.png?v=1665864970",
+      "alt": "",
+      "width": 320,
+      "height": 320,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924",
+      "alt": "",
+      "width": 320,
+      "height": 320,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningConditionerBar_360x.png?v=1665864833",
+      "alt": "",
+      "width": 320,
+      "height": 320,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIVENING Conditioner Bar (Tucuma Orange)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIVENING Conditioner Bar (Tucuma Orange)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIVENING Conditioner Bar (Tucuma Orange)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-2275896459367",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIVENING Conditioner Bar (Tucuma Orange)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-2275896459367",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "INVIGORATING Conditioner Bar (Rosemary Mint)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "INVIGORATING Conditioner Bar (Rosemary Mint)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "INVIGORATING Conditioner Bar (Rosemary Mint)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-2275874373735",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "INVIGORATING Conditioner Bar (Rosemary Mint)",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-2275874373735",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608859439207",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608859439207",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608859439207",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "",
+      "alt": "ENLIGHTENING Conditioner Bar",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "product__thumb product__thumb-4608859439207",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/ICONS-HOWTO_480x480.png?v=1576085622",
+      "alt": "",
+      "width": 480,
+      "height": 119,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://cdn.shopify.com/s/files/1/0065/6913/2135/files/UPFRONT-ICONS-FULL-V650.png?v=1575496195",
+      "alt": "",
+      "width": 650,
+      "height": 169,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/Philosophy-3_300x.jpg?v=1613519310",
+      "alt": "",
+      "width": 524,
+      "height": 349,
+      "parentClasses": "promo-grid__bg",
+      "position": "relative",
+      "zIndex": "1"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.43.22_AM_300x.png?v=1613530426",
+      "alt": "",
+      "width": 462,
+      "height": 366,
+      "parentClasses": "promo-grid__bg",
+      "position": "relative",
+      "zIndex": "1"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/Screen_Shot_2020-08-21_at_9.33.00_AM_300x.png?v=1613530426",
+      "alt": "",
+      "width": 518,
+      "height": 349,
+      "parentClasses": "promo-grid__bg",
+      "position": "relative",
+      "zIndex": "1"
+    },
+    {
+      "src": "",
+      "alt": "",
+      "width": 0,
+      "height": 0,
+      "parentClasses": "image-wrap",
+      "position": "static",
+      "zIndex": "auto"
+    },
+    {
+      "src": "https://upfrontcosmetics.ca/cdn/shop/files/2018-B-Corp-wTag-S_x120@2x.png?v=1644337345",
+      "alt": "Upfront Cosmetics ",
+      "width": 438,
+      "height": 240,
+      "parentClasses": "",
+      "position": "static",
+      "zIndex": "auto"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "url": "linear-gradient(rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0))",
+      "element": "DIV#.header-wrapper"
+    },
+    {
+      "url": "url(\"https://upfrontcosmetics.ca/cdn/shop/collections/HandmadebyAlicia-53_400x.jpg?v=1619028321\")",
+      "element": "A#.megamenu__colection-image"
+    },
+    {
+      "url": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042\")",
+      "element": "DIV#.parallax-image"
+    },
+    {
+      "url": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022\")",
+      "element": "DIV#.parallax-image"
+    },
+    {
+      "url": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042\")",
+      "element": "DIV#.parallax-image"
+    },
+    {
+      "url": "url(\"https://cdn.shopify.com/s/files/1/0065/6913/2135/files/foggy-forest.jpg?v=1600690430\")",
+      "element": "DIV#.NumberCounter__Component-sc-1r1l55i-0"
+    }
+  ],
+  "videos": [],
+  "svgCount": 58,
+  "meta": [
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "IE=edge,chrome=1"
+    },
+    {
+      "name": "viewport",
+      "property": null,
+      "content": "width=device-width,initial-scale=1"
+    },
+    {
+      "name": "theme-color",
+      "property": null,
+      "content": "#111111"
+    },
+    {
+      "name": "facebook-domain-verification",
+      "property": null,
+      "content": "gbxnniot2ifpurqu7t0cu7ivavmu9l"
+    },
+    {
+      "name": "description",
+      "property": null,
+      "content": "At Upfront, we take pride in knowing where our every ingredient comes from, and we pride ourselves on sourcing the best possible ingredients. Visit our site and view our products today."
+    },
+    {
+      "name": "",
+      "property": "og:site_name",
+      "content": "Upfront Cosmetics "
+    },
+    {
+      "name": "",
+      "property": "og:url",
+      "content": "https://upfrontcosmetics.ca/"
+    },
+    {
+      "name": "",
+      "property": "og:title",
+      "content": "Upfront Cosmetics - Buy Shampoo Bar Online | Hair Conditioner Bars For Sale - Plastic, Sulphate Free"
+    },
+    {
+      "name": "",
+      "property": "og:type",
+      "content": "website"
+    },
+    {
+      "name": "",
+      "property": "og:description",
+      "content": "At Upfront, we take pride in knowing where our every ingredient comes from, and we pride ourselves on sourcing the best possible ingredients. Visit our site and view our products today."
+    },
+    {
+      "name": "twitter:site",
+      "property": null,
+      "content": "@"
+    },
+    {
+      "name": "twitter:card",
+      "property": null,
+      "content": "summary_large_image"
+    },
+    {
+      "name": "twitter:title",
+      "property": null,
+      "content": "Upfront Cosmetics - Buy Shampoo Bar Online | Hair Conditioner Bars For Sale - Plastic, Sulphate Free"
+    },
+    {
+      "name": "twitter:description",
+      "property": null,
+      "content": "At Upfront, we take pride in knowing where our every ingredient comes from, and we pride ourselves on sourcing the best possible ingredients. Visit our site and view our products today."
+    },
+    {
+      "name": "google-site-verification",
+      "property": null,
+      "content": "8iDnlOnHI3WYCVyHNqF98Dgwi7fieF_UI2aLmteBUk8"
+    },
+    {
+      "name": "shopify-digital-wallet",
+      "property": null,
+      "content": "/6569132135/digital_wallets/dialog"
+    },
+    {
+      "name": "shopify-checkout-api-token",
+      "property": null,
+      "content": "70fb88bc260f5ec898531292ec6f3827"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "{\"isInstalled\":true,\"installedOn\":\"2023-08-16T00:55:54.258Z\",\"appVersion\":\"3.0\",\"subscriptionName\":\"Standard\",\"cartAnalytics\":true,\"freeTrialEndsOn\":null,\"settings\":{\"reminderBannerStyle\":{\"position\":{\"horizontal\":\"right\",\"vertical\":\"bottom\"},\"primaryColor\":\"#000000\",\"cssStyles\":\"\",\"headerText\":\"\",\"subHeaderText\":\"\",\"showImage\":false,\"imageUrl\":null,\"displayAfter\":5,\"closingMode\":\"doNotAutoClose\",\"selfcloseAfter\":5,\"reshowBannerAfter\":\"everyNewSession\"},\"addedItemIdentifier\":\"_Gifted\",\"ignoreOtherAppLineItems\":null,\"customVariantsInfoLifetimeMins\":1440,\"redirectPath\":null,\"ignoreNonStandardCartRequests\":false,\"bannerStyle\":{\"position\":{\"horizontal\":\"right\",\"vertical\":\"bottom\"},\"primaryColor\":\"#000000\",\"cssStyles\":null},\"themePresetId\":null,\"notificationStyle\":{\"position\":{\"horizontal\":null,\"vertical\":null},\"cssStyles\":null,\"duration\":null,\"hasCustomizations\":false,\"primaryColor\":null},\"fetchCartData\":false,\"useLocalStorage\":{\"enabled\":false,\"expiryMinutes\":null},\"popupStyle\":{\"showProductLink\":false,\"addButtonText\":null,\"cssStyles\":null,\"dismissButtonText\":null,\"hasCustomizations\":false,\"imageUrl\":null,\"outOfStockButtonText\":null,\"primaryColor\":null,\"secondaryColor\":null,\"subscriptionLabel\":\"Subscription Plan\"},\"refreshAfterBannerClick\":false,\"disableReapplyRules\":false,\"disableReloadOnFailedAddition\":false,\"autoReloadCartPage\":false,\"ajaxRedirectPath\":null,\"allowSimultaneousRequests\":false,\"applyRulesOnCheckout\":false,\"enableCartCtrlOverrides\":true,\"scriptSettings\":{\"branding\":{\"show\":false,\"removalRequestSent\":null},\"productPageRedirection\":{\"enabled\":false,\"products\":[],\"redirectionURL\":\"\\/\"},\"debugging\":{\"enabled\":false,\"enabledOn\":null,\"stringifyObj\":false},\"customCSS\":null,\"delayUpdates\":2000,\"decodePayload\":false,\"hideAlertsOnFrontend\":false,\"removeEGPropertyFromSplitActionLineItems\":false,\"fetchProductInfoFromSavedDomain\":false,\"enableBuyNowInterceptions\":false,\"removeProductsAddedFromExpiredRules\":false,\"useFinalPrice\":false,\"hideGiftedPropertyText\":false,\"fetchCartDataBeforeRequest\":false}},\"translations\":null,\"defaultLocale\":\"en\",\"shopDomain\":\"upfrontcosmetics.ca\"}"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": "[]"
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    },
+    {
+      "name": "",
+      "property": null,
+      "content": ""
+    }
+  ],
+  "title": "Upfront Cosmetics - Buy Shampoo Bar Online | Hair Conditioner Bars For Sale - Plastic, Sulphate Free",
+  "bodyBg": "rgb(255, 255, 255)",
+  "bodyFont": "Montserrat, sans-serif",
+  "bodyColor": "rgb(0, 0, 0)",
+  "scrollBehavior": "auto",
+  "hasLenis": false,
+  "navLinks": [
+    {
+      "text": "Upfront Cosmetics",
+      "href": "https://upfrontcosmetics.ca/"
+    },
+    {
+      "text": "Home",
+      "href": "https://upfrontcosmetics.ca/"
+    },
+    {
+      "text": "Shop",
+      "href": "https://upfrontcosmetics.ca/collections/haircare"
+    },
+    {
+      "text": "Self-Care",
+      "href": "https://upfrontcosmetics.ca/collections/self-care"
+    },
+    {
+      "text": "Skin Care",
+      "href": "https://upfrontcosmetics.ca/collections/lotion-bars"
+    },
+    {
+      "text": "Best Sellers",
+      "href": "https://upfrontcosmetics.ca/collections/best-sellers"
+    },
+    {
+      "text": "Accessories",
+      "href": "https://upfrontcosmetics.ca/collections/accessories"
+    },
+    {
+      "text": "",
+      "href": "https://upfrontcosmetics.ca/collections/haircare"
+    },
+    {
+      "text": "Haircare",
+      "href": "https://upfrontcosmetics.ca/collections/haircare"
+    },
+    {
+      "text": "Shampoo Bars",
+      "href": "https://upfrontcosmetics.ca/collections/shampoo"
+    },
+    {
+      "text": "Conditioner Bars",
+      "href": "https://upfrontcosmetics.ca/collections/conditioner"
+    },
+    {
+      "text": "Hair Treatments",
+      "href": "https://upfrontcosmetics.ca/collections/hair-treatments"
+    },
+    {
+      "text": "About",
+      "href": "https://upfrontcosmetics.ca/pages/about-us"
+    },
+    {
+      "text": "About Us",
+      "href": "https://upfrontcosmetics.ca/pages/about-us"
+    },
+    {
+      "text": "Meet The Maker",
+      "href": "https://upfrontcosmetics.ca/pages/meet-the-maker"
+    },
+    {
+      "text": "Mission",
+      "href": "https://upfrontcosmetics.ca/pages/missiohttps-upfrontcosmetics-ca-pages-missionn"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://upfrontcosmetics.ca/pages/faqs"
+    },
+    {
+      "text": "Contact",
+      "href": "https://upfrontcosmetics.ca/pages/contact-us"
+    },
+    {
+      "text": "Contact Us",
+      "href": "https://upfrontcosmetics.ca/pages/contact-us"
+    },
+    {
+      "text": "Wholesale",
+      "href": "https://upfrontcosmetics.ca/pages/wholesale"
+    },
+    {
+      "text": "Private Label & Contract Manufacturing",
+      "href": "https://upfrontcosmetics.ca/pages/private-label-contract-manufacturing"
+    },
+    {
+      "text": "Media",
+      "href": "https://upfrontcosmetics.ca/pages/media"
+    },
+    {
+      "text": "Blog",
+      "href": "https://upfrontcosmetics.ca/blogs/be-upfront"
+    },
+    {
+      "text": "Log in",
+      "href": "https://upfrontcosmetics.ca/account"
+    },
+    {
+      "text": "Search",
+      "href": "https://upfrontcosmetics.ca/search"
+    },
+    {
+      "text": "Cart",
+      "href": "https://upfrontcosmetics.ca/cart"
+    },
+    {
+      "text": "View all",
+      "href": "https://upfrontcosmetics.ca/blogs/be-upfront"
+    }
+  ]
+}

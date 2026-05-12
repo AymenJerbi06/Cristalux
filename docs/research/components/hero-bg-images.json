@@ -1,0 +1,62 @@
+[
+  {
+    "classes": "hero__image-wrapper",
+    "bgImage": "none",
+    "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042",
+    "dataSrc": null,
+    "width": "1425px",
+    "height": "880px",
+    "position": "absolute",
+    "zIndex": "auto"
+  },
+  {
+    "classes": "parallax-image hero__image hero__image--1524769873765-1 lazyloaded",
+    "bgImage": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042\")",
+    "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042",
+    "dataSrc": "\n  \n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_180x.jpg?v=1613531042 180w 101h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_360x.jpg?v=1613531042 360w 203h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_540x.jpg?v=1613531042 540w 304h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_720x.jpg?v=1613531042 720w 405h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_900x.jpg?v=1613531042 900w 506h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1080x.jpg?v=1613531042 1080w 608h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1296x.jpg?v=1613531042 1296w 729h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1512x.jpg?v=1613531042 1512w 851h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042 1728w 972h\n\n",
+    "width": "1425px",
+    "height": "880px",
+    "position": "absolute",
+    "zIndex": "1"
+  },
+  {
+    "classes": "hero__image-wrapper",
+    "bgImage": "none",
+    "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022",
+    "dataSrc": null,
+    "width": "1425px",
+    "height": "880px",
+    "position": "absolute",
+    "zIndex": "auto"
+  },
+  {
+    "classes": "parallax-image hero__image hero__image--1524769873765-0 lazyloaded",
+    "bgImage": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022\")",
+    "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022",
+    "dataSrc": "\n  \n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_180x.jpg?v=1613520022 180w 120h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_360x.jpg?v=1613520022 360w 240h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_540x.jpg?v=1613520022 540w 360h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_720x.jpg?v=1613520022 720w 480h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_900x.jpg?v=1613520022 900w 600h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1080x.jpg?v=1613520022 1080w 720h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1296x.jpg?v=1613520022 1296w 864h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022 1512w 1008h,\n  //upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1728x.jpg?v=1613520022 1728w 1152h\n\n",
+    "width": "1425px",
+    "height": "880px",
+    "position": "absolute",
+    "zIndex": "1"
+  },
+  {
+    "classes": "hero__image-wrapper",
+    "bgImage": "none",
+    "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042",
+    "dataSrc": null,
+    "width": "1425px",
+    "height": "880px",
+    "position": "absolute",
+    "zIndex": "auto"
+  },
+  {
+    "classes": "parallax-image hero__image hero__image--8d33e938-0ecb-4f44-83a1-885ac5a43627 lazyloaded",
+    "bgImage": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042\")",
+    "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042",
+    "dataSrc": "\n  \n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_180x.jpg?v=1613531042 180w 101h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_360x.jpg?v=1613531042 360w 203h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_540x.jpg?v=1613531042 540w 304h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_720x.jpg?v=1613531042 720w 405h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_900x.jpg?v=1613531042 900w 506h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1080x.jpg?v=1613531042 1080w 608h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1296x.jpg?v=1613531042 1296w 729h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1512x.jpg?v=1613531042 1512w 851h,\n  //upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042 1728w 972h\n\n",
+    "width": "1425px",
+    "height": "880px",
+    "position": "absolute",
+    "zIndex": "1"
+  }
+]

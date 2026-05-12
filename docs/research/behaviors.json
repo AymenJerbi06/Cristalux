@@ -1,0 +1,28 @@
+{
+  "headerScrollBehavior": {
+    "before": {
+      "selector": "HTML.js",
+      "position": "static",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "boxShadow": "none",
+      "height": "5024.48px",
+      "transform": "none",
+      "transition": "all",
+      "opacity": "1"
+    },
+    "after": {
+      "position": "static",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "boxShadow": "none",
+      "height": "5024.48px",
+      "transform": "none",
+      "transition": "all",
+      "opacity": "1"
+    },
+    "changes": []
+  },
+  "hasLenis": false,
+  "scrollBehavior": "auto",
+  "pageHeight": 5024,
+  "viewportWidth": 1440
+}

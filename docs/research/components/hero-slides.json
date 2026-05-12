@@ -1,0 +1,59 @@
+[
+  {
+    "index": 0,
+    "title": "Haircare without\nthe plastic waste",
+    "buttonText": "Shop all",
+    "buttonHref": "https://upfrontcosmetics.ca/collections/all",
+    "bgImages": [
+      {
+        "src": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042\")",
+        "classes": "parallax-image hero__image hero__image--1524769873765-1 lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide1_a6a8560f-fcb5-4e74-a423-44f9d62085d7_1728x.jpg?v=1613531042",
+        "classes": "lazyautosizes lazyloaded"
+      }
+    ],
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "classes": "slideshow__slide slideshow__slide--1524769873765-1 slick-slide slick-current slick-active"
+  },
+  {
+    "index": 1,
+    "title": "Minimize your\necological impact",
+    "buttonText": "Learn More",
+    "buttonHref": "https://upfrontcosmetics.ca/collections/all",
+    "bgImages": [
+      {
+        "src": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022\")",
+        "classes": "parallax-image hero__image hero__image--1524769873765-0 lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/SLIDER-2_1512x.jpg?v=1613520022",
+        "classes": "lazyautosizes lazyloaded"
+      }
+    ],
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "classes": "slideshow__slide slideshow__slide--1524769873765-0 slick-slide"
+  },
+  {
+    "index": 2,
+    "title": "BETTER FOR YOUR HAIR. \nBETTER FOR THE PLANET.",
+    "buttonText": "SHOP NOW",
+    "buttonHref": "https://upfrontcosmetics.ca/collections",
+    "bgImages": [
+      {
+        "src": "url(\"https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042\")",
+        "classes": "parallax-image hero__image hero__image--8d33e938-0ecb-4f44-83a1-885ac5a43627 lazyloaded"
+      },
+      {
+        "src": "https://upfrontcosmetics.ca/cdn/shop/files/upfront_home_header_slide2_1728x.jpg?v=1613531042",
+        "classes": "lazyautosizes lazyloaded"
+      }
+    ],
+    "color": "rgb(0, 0, 0)",
+    "textAlign": "start",
+    "classes": "slideshow__slide slideshow__slide--8d33e938-0ecb-4f44-83a1-885ac5a43627 slick-slide"
+  }
+]

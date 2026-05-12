@@ -1,0 +1,65 @@
+{
+  "classes": "shopify-section index-section",
+  "bgColor": "rgba(0, 0, 0, 0)",
+  "padding": "0px",
+  "headingText": "SHOP CUSTOMER FAVS",
+  "productCardCount": 6,
+  "productCards": [
+    {
+      "classes": "grid__item grid-product small--one-half medium-up--one-fifth grid-product__has-quick-shop aos-init",
+      "display": "block",
+      "width": "273.398px",
+      "padding": "0px 0px 0px 22px",
+      "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/shower_pic_360x.png?v=1765331782",
+      "imgAlt": "",
+      "title": "Shower Steamer",
+      "price": "$5.00"
+    },
+    {
+      "classes": "grid__item grid-product small--one-half medium-up--one-fifth grid-product__has-quick-shop aos-init",
+      "display": "block",
+      "width": "273.398px",
+      "padding": "0px 0px 0px 22px",
+      "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/products/1_99524ac1-2b77-4fe3-9404-54db3a86a44c_360x.png?v=1676402140",
+      "imgAlt": "",
+      "title": "Hair Oil | Rosemary & Lavender",
+      "price": "from $33.00"
+    },
+    {
+      "classes": "grid__item grid-product small--one-half medium-up--one-fifth grid-product__has-quick-shop aos-init",
+      "display": "block",
+      "width": "273.398px",
+      "padding": "0px 0px 0px 22px",
+      "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/products/EnlighteningShampoo_360x.png?v=1665864868",
+      "imgAlt": "",
+      "title": "ENLIGHTENING Shampoo Bar (Blonde Toner)",
+      "price": "$16.99"
+    },
+    {
+      "classes": "grid__item grid-product small--one-half medium-up--one-fifth grid-product__has-quick-shop aos-init",
+      "display": "block",
+      "width": "273.398px",
+      "padding": "0px 0px 0px 22px",
+      "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/files/ultrashinemockup_360x.jpg?v=1699627896",
+      "imgAlt": "",
+      "title": "Ultra Shine Hair Mask",
+      "price": "$21.99"
+    },
+    {
+      "classes": "grid__item grid-product small--one-half medium-up--one-fifth grid-product__has-quick-shop aos-init",
+      "display": "block",
+      "width": "273.398px",
+      "padding": "0px 0px 0px 22px",
+      "imgSrc": "https://upfrontcosmetics.ca/cdn/shop/products/HempConditioner_360x.png?v=1665864924",
+      "imgAlt": "",
+      "title": "HYDRATING  Conditioner Bar",
+      "price": "$17.99"
+    },
+    {
+      "classes": "grid__item grid__item--view-all text-center small--one-half medium-up--one-fifth medium-up--hide",
+      "display": "none",
+      "width": "20%",
+      "padding": "0px 0px 0px 22px"
+    }
+  ]
+}
